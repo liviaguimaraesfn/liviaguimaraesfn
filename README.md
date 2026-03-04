@@ -6,6 +6,7 @@
 - TEDx TU Dublin Operations Team
 - Student & Social Media Ambassador and Peer Mentor
 - Faculty & Class Representative
+- Soprano singer, songwriting, and music theory.
 
  ## 🌐 Contact Me
 
