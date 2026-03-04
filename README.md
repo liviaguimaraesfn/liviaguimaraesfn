@@ -1,43 +1,36 @@
-##
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to Lívia Guimarães's profile! 🖥️
 
-<h3 align="center">Welcome to Lívia Guimarães's profile!</h3>
+- I am the President of the Computer Science Society (CS++)
+- Bachelor’s in Computer Science second-year student, and an aspiring Software Engineer
+- Working as a Web Development tutor and Spanish Higher Level Corrector
+- TEDx TU Dublin Operations Team
+- Student & Social Media Ambassador and Peer Mentor
+- Faculty & Class Representative
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Kanit&pause=1000&color=D00000&background=FFD44D00&center=true&width=435&lines=Your+Title+Here;Your+Description;Line+3"
-      alt="Hey"/>
-  </a>
-</p>
+ ## 🌐 Contact Me
 
-<hr>
-<h3 align="center">Stats</h3>
+Connect with me here! I'm open to new job opportunities and projects:  
+-  **Professional Email**: [liviaferreiraguimaraesneves@gmail.com](mailto:liviaferreiraguimaraesneves@gmail.com)
+-  **Academic Email**: [C24329646@myTUDublin.ie](mailto:C24329646@mytudublin.ie)
+-  **LinkedIn**: [Lívia Guimarães](https://www.linkedin.com/in/livguimaraes/)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=synthwave&show_icons=true&border_color=444c56" 
-      alt="My GitHub Stats" 
-      width="423px"
-    />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=synthwave&show_icons=true&border_color=444c56&layout=compact" 
-      alt="My Top Languages" 
-      width="423px"
-    />
-  </a>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=synthwave&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=426&border=3E3E3E)](https://git.io/streak-stats)
-</div>
+## 🌍 Languages  
+
+- **English** (Fluent)  
+- **Brazilian Portuguese** (Native)
+- **Spanish** (Fluent)  
+- **Germany** (Intermediate)
+
+## 💻 Skills & Technologies
+
+| **Category**                  | **Technologies**                                                                                                                                                  |  
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| **Version Control**           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |  
+| **Front-End Development**     | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |  
+| **Back-End Development**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  |  
+| **Databases**                 | ![MySQL](https://img.shields.io/badge/MySQL-005E9C?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |  
+| **Programming Languages**     | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |   
+| **Operating Systems**         | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |  
+| **Development Tools**         | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PuTTY](https://img.shields.io/badge/PuTTY-0E9B5C?style=flat&logo=putty&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-7B8DFF?style=flat&logo=dbeaver&logoColor=white) |  
+| **Scripting & Command Line**  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=windowscommandprompt&logoColor=white) |  
+| **Additional Tools**          |   ![StarUML](https://img.shields.io/badge/StarUML-24A8E1?style=flat&logo=staruml&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |  
