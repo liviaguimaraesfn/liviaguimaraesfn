@@ -1,6 +1,6 @@
 # Welcome to Lívia Guimarães's profile! 🖥️
 
-- I am the President of the Computer Science Society (CS++)
+- I am the President of the Computer Science Society, CS++, at Technological University Dublin
 - Bachelor’s in Computer Science second-year student, and an aspiring Software Engineer
 - Working as a Web Development tutor and Spanish Higher Level Corrector
 - TEDx TU Dublin Operations Team
@@ -19,7 +19,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 - **English** (Fluent)  
 - **Brazilian Portuguese** (Native)
 - **Spanish** (Fluent)  
-- **Germany** (Intermediate)
+- **German** (Intermediate)
 
 ## 💻 Skills & Technologies
 
