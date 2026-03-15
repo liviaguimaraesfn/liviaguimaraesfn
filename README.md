@@ -24,6 +24,8 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 ## 💻 Skills & Technologies
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=radical&cache_seconds=60)
+
 | **Category**                  | **Technologies**                                                                                                                                                  |  
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | **Version Control**           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |  
@@ -35,5 +37,3 @@ Connect with me here! I'm open to new job opportunities and projects:
 | **Development Tools**         | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PuTTY](https://img.shields.io/badge/PuTTY-0E9B5C?style=flat&logo=putty&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-7B8DFF?style=flat&logo=dbeaver&logoColor=white) |  
 | **Scripting & Command Line**  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=windowscommandprompt&logoColor=white) |  
 | **Additional Tools**          |   ![StarUML](https://img.shields.io/badge/StarUML-24A8E1?style=flat&logo=staruml&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=radical&cache_seconds=60)
