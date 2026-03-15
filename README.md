@@ -1,6 +1,6 @@
 # Welcome to Lívia Guimarães's profile! 🖥️
 
-- I am the President of the Computer Science Society, CS++, at Technological University Dublin
+- I am the President of the Computer Science Society, [TU Dublin's Computer Science Society](https://github.com/cs-soc-tudublin), at Technological University Dublin
 - Bachelor’s in Computer Science second-year student, and an aspiring Software Engineer & Project Manager
 - Working as a Web Development tutor and Spanish Higher Level Corrector
 - TEDx TU Dublin Operations Team
@@ -15,7 +15,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 -  **Academic Email**: [C24329646@myTUDublin.ie](mailto:C24329646@mytudublin.ie)
 -  **LinkedIn**: [Lívia Guimarães](https://www.linkedin.com/in/livguimaraes/)
 
-## 🌍 Languages  
+## 🌍 Languages
 
 - **English** (Fluent)  
 - **Brazilian Portuguese** (Native)
@@ -35,3 +35,5 @@ Connect with me here! I'm open to new job opportunities and projects:
 | **Development Tools**         | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)   ![PuTTY](https://img.shields.io/badge/PuTTY-0E9B5C?style=flat&logo=putty&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-7B8DFF?style=flat&logo=dbeaver&logoColor=white) |  
 | **Scripting & Command Line**  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=windowscommandprompt&logoColor=white) |  
 | **Additional Tools**          |   ![StarUML](https://img.shields.io/badge/StarUML-24A8E1?style=flat&logo=staruml&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=radical&cache_seconds=60)
