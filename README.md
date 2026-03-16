@@ -3,7 +3,7 @@
 - I am the President of [CS++, Computer Science Society](https://github.com/cs-soc-tudublin), at Technological University Dublin
 - Bachelor’s in Computer Science second-year student, and an aspiring Software Engineer & Project Manager
 - Working as a Web Development tutor and Spanish Higher Level Corrector
-- TEDx TU Dublin Operations Team
+- [TEDx TU Dublin]Operations Team(https://www.instagram.com/tedxtudublin/)
 - Student & Social Media Ambassador and Peer Mentor
 - Faculty & Class Representative
 - Soprano singer, songwriting, and music theory.
