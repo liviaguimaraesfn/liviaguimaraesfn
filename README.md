@@ -24,7 +24,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 ## 💻 Skills & Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=radical&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=midnight-purple&cache_seconds=60)
 
 | **Category**                  | **Technologies**                                                                                                                                                  |  
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
