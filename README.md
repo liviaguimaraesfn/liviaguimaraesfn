@@ -17,8 +17,8 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 ## 🌍 Languages
 
-- **English** (Fluent)  
 - **Brazilian Portuguese** (Native)
+- **English** (Fluent)  
 - **Spanish** (Fluent)  
 - **German** (Intermediate)
 
