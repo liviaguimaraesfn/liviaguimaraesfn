@@ -1,10 +1,11 @@
 # Welcome to Lívia Guimarães's profile! 🖥️
 
 - Bachelor’s in Computer Science Third-Year student, and an aspiring Software Engineer & Project Manager;
-- Working as Lead Student & Social Media Ambassador, Computer Science Tutor, Events Supervisor, and Spanish Higher Level Corrector;
+- Working as Lead Student & Social Media Ambassador, Computer Science Tutor, and Events Supervisor;
 - Former President and current Public Relations Officer of [CS++,](https://cspp.ie/)[Computer Science Society](https://github.com/cs-soc-tudublin), at Technological University Dublin;
 - Faculty & Class Representative;
-- Computer Science Peer Mentor.
+- Computer Science Peer Mentor;
+- Spanish Higher Level Corrector at The Institute of Education Dublin.
 
  ## 🌐 Contact Me
 
