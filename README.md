@@ -1,11 +1,10 @@
 # Welcome to Lívia Guimarães's profile! 🖥️
 
-- I am the President of [CS++,](https://cspp.ie/)[Computer Science Society](https://github.com/cs-soc-tudublin), at Technological University Dublin 
-- Bachelor’s in Computer Science Second-Year student, and an aspiring Software Engineer & Project Manager;
-- Working as a Web Development tutor and Spanish Higher Level Corrector;
-- TEDx TU Dublin Operations Team;
-- Student & Social Media Ambassador, and Peer Mentor;
-- Faculty & Class Representative.
+- Bachelor’s in Computer Science Third-Year student, and an aspiring Software Engineer & Project Manager;
+- Working as Lead Student & Social Media Ambassador, Computer Science Tutor, Events Supervisor, and Spanish Higher Level Corrector;
+- Former President and current Public Relations Officer of [CS++,](https://cspp.ie/)[Computer Science Society](https://github.com/cs-soc-tudublin), at Technological University Dublin;
+- Faculty & Class Representative;
+- Computer Science Peer Mentor.
 
  ## 🌐 Contact Me
 
