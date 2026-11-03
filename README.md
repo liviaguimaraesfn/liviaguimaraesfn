@@ -70,7 +70,7 @@ Connect with me:
 ## 💻 Skills & Technologies
 
 <p align="center">
-  <img src="./top-languages.svg" alt="Most used languages" width="100%" />
+  <img src="./top-languages.svg" alt="Most Used Languages" width="100%" />
 </p>
 
 | **Category**                  | **Technologies**                                                                                                                                                  |  
