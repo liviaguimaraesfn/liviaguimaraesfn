@@ -9,7 +9,7 @@
 
 ## 🌐 Contact Me
 
-Connect with me here! I'm open to new job opportunities and projects:  
+Connect with me:
 -  **Professional Email**: [liviaferreiraguimaraesneves@gmail.com](mailto:liviaferreiraguimaraesneves@gmail.com)
 -  **Academic Email**: [C24329646@myTUDublin.ie](mailto:C24329646@mytudublin.ie)
 -  **LinkedIn**: [Lívia Guimarães](https://www.linkedin.com/in/livguimaraes/)
