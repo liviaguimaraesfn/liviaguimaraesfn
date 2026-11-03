@@ -69,7 +69,7 @@ Connect with me:
 
 ## 💻 Skills & Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=midnight-purple&cache_seconds=60)
+![Top Languages](https://YOUR-APP.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=midnight-purple)
 
 | **Category**                  | **Technologies**                                                                                                                                                  |  
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
