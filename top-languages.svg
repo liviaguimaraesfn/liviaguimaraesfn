@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Most used languages">
+<style>
+.t{font:800 30px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#000}
+.s{font:700 16px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#000}
+.l{font:700 15px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#000}
+.p{font:800 14px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#000;opacity:0;animation:fade .5s ease forwards}
+.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+.head{opacity:0;animation:fade .7s ease forwards}
+.pie{animation:spin 1.4s cubic-bezier(.2,.8,.2,1) forwards;transform-origin:690px 270px}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes fade{to{opacity:1}}
+@keyframes spin{from{transform:rotate(-90deg) scale(.6)}to{transform:rotate(0) scale(1)}}
+@keyframes s0{from{stroke-dasharray:0 389.56}to{stroke-dasharray:93.49 389.56}}@keyframes s1{from{stroke-dasharray:0 389.56}to{stroke-dasharray:77.91 389.56}}@keyframes s2{from{stroke-dasharray:0 389.56}to{stroke-dasharray:62.33 389.56}}@keyframes s3{from{stroke-dasharray:0 389.56}to{stroke-dasharray:54.54 389.56}}@keyframes s4{from{stroke-dasharray:0 389.56}to{stroke-dasharray:42.85 389.56}}@keyframes s5{from{stroke-dasharray:0 389.56}to{stroke-dasharray:35.06 389.56}}@keyframes s6{from{stroke-dasharray:0 389.56}to{stroke-dasharray:23.37 389.56}}</style>
+<rect width="900" height="470" rx="18" fill="#D3D3D3"/>
+<text class="t head" x="450.0" y="52" text-anchor="middle">💻 Most Used Languages</text>
+<text class="s head" style="animation-delay:.2s" x="450.0" y="82" text-anchor="middle">Across my projects &amp; labs</text>
+<text class="l" x="40" y="144">Java</text>
+<rect x="150" y="125" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.30s" x="150" y="125" width="290.0" height="28" rx="6" fill="#5C0F35" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.10s" x="448.0" y="144">24%</text>
+<text class="l" x="40" y="188">C</text>
+<rect x="150" y="169" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.42s" x="150" y="169" width="241.7" height="28" rx="6" fill="#690500" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.22s" x="399.7" y="188">20%</text>
+<text class="l" x="40" y="232">JavaScript</text>
+<rect x="150" y="213" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.54s" x="150" y="213" width="193.3" height="28" rx="6" fill="#0D1164" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.34s" x="351.3" y="232">16%</text>
+<text class="l" x="40" y="276">SQL</text>
+<rect x="150" y="257" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.66s" x="150" y="257" width="169.2" height="28" rx="6" fill="#2D0957" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.46s" x="327.2" y="276">14%</text>
+<text class="l" x="40" y="320">HTML</text>
+<rect x="150" y="301" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.78s" x="150" y="301" width="132.9" height="28" rx="6" fill="#210F04" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.58s" x="290.9" y="320">11%</text>
+<text class="l" x="40" y="364">CSS</text>
+<rect x="150" y="345" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:0.90s" x="150" y="345" width="108.8" height="28" rx="6" fill="#FFBF00" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.70s" x="266.8" y="364">9%</text>
+<text class="l" x="40" y="408">Python</text>
+<rect x="150" y="389" width="290" height="28" rx="6" fill="#000" fill-opacity=".08"/>
+<rect class="bar" style="animation-delay:1.02s" x="150" y="389" width="72.5" height="28" rx="6" fill="#7FFFD4" stroke="#000" stroke-opacity=".25"/>
+<text class="p" style="animation-delay:1.82s" x="230.5" y="408">6%</text>
+<g class="pie"><circle cx="690" cy="270" r="62" fill="none" stroke="#5C0F35" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="0.00" transform="rotate(-90 690 270)" style="animation:s0 .7s ease-out 0.40s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#690500" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-93.49" transform="rotate(-90 690 270)" style="animation:s1 .7s ease-out 0.55s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#0D1164" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-171.41" transform="rotate(-90 690 270)" style="animation:s2 .7s ease-out 0.70s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#2D0957" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-233.73" transform="rotate(-90 690 270)" style="animation:s3 .7s ease-out 0.85s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#210F04" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-288.27" transform="rotate(-90 690 270)" style="animation:s4 .7s ease-out 1.00s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#FFBF00" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-331.12" transform="rotate(-90 690 270)" style="animation:s5 .7s ease-out 1.15s forwards"/>
+<circle cx="690" cy="270" r="62" fill="none" stroke="#7FFFD4" stroke-width="124" stroke-dasharray="0 389.56" stroke-dashoffset="-366.18" transform="rotate(-90 690 270)" style="animation:s6 .7s ease-out 1.30s forwards"/><circle cx="690" cy="270" r="124" fill="none" stroke="#000" stroke-opacity=".25"/></g>
+<text class="p" text-anchor="middle" style="animation-delay:1.00s" x="791.3" y="167.1">24%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.15s" x="815.0" y="354.3">20%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.30s" x="671.5" y="421.8">16%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.45s" x="560.3" y="346.3">14%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.60s" x="547.9" y="233.7">11%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.75s" x="599.3" y="158.1">9%</text>
+<text class="p" text-anchor="middle" style="animation-delay:1.90s" x="662.3" y="129.6">6%</text>
+</svg>
