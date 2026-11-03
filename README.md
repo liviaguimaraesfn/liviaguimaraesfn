@@ -17,9 +17,9 @@ Connect with me:
 ## 🌍 Languages
 
 - **Brazilian Portuguese** (Native)
-- **English** (Fluent)  
-- **Spanish** (Fluent)  
-- **German** (Intermediate)
+- **English** (C2)  
+- **Spanish** (C1)  
+- **German** (A2)
 
 ## 🚀 Projects
 
