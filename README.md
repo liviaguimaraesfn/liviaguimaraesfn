@@ -65,11 +65,13 @@ Connect with me:
 | 🗄️ **Databases** | Relational database design, querying and performance tuning with SQL | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | [Open ➜](https://github.com/liviaguimaraesfn/Databases) |
 | 🌳 **Algorithms & Data Structures** | Core data structures and algorithm implementations | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) | [Open ➜](https://github.com/liviaguimaraesfn/Algorithms-Data-Structures) |
 | 🧩 **Object-Oriented Programming** | Java fundamentals through inheritance, abstract classes, polymorphism and a multi-part Library System | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) | [Open ➜](https://github.com/liviaguimaraesfn/Object-Oriented-Programming) |
-| 💡 **Programming** | Five foundational programming labs | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | [Open ➜](https://github.com/liviaguimaraesfn/Programming) |
+| 💡 **Programming** | Foundational programming labs | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | [Open ➜](https://github.com/liviaguimaraesfn/Programming) |
 
 ## 💻 Skills & Technologies
 
-![Top Languages](https://YOUR-APP.vercel.app/api/top-langs/?username=liviaguimaraesfn&layout=compact&theme=midnight-purple)
+<p align="center">
+  <img src="./top-languages.svg" alt="Most used languages" width="100%" />
+</p>
 
 | **Category**                  | **Technologies**                                                                                                                                                  |  
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
